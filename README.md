@@ -82,6 +82,6 @@ This project analyzes the impact of an online ad campaign on user conversion usi
 | --------------------- | ------------ |
 | Conversion Rate (Ad)  | 2.55%        |
 | Conversion Rate (PSA) | 1.78%        |
-| Lift                  | 43.3% ↑      |
+| Lift                  | 43.09% ↑      |
 | p-value               | 0.0000 ✅    |
 | Extra Revenue         | ~$217,149.11 |
